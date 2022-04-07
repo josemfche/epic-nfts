@@ -170,6 +170,7 @@
   border: solid 1px white;
   padding: 0 20px;
   border-radius: 5px;
+  width: 100%;
 }
 
 .row table a {
