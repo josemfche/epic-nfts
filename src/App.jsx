@@ -294,7 +294,7 @@ const App = () => {
             <a className="footer-text" href={TWITTER_LINK} target="_blank" rel="noreferrer">{`built on @${TWITTER_HANDLE}`}</a>
           </div>
           <div className="footer-text">NFTs minted: {totalNftsMinted._hex}</div>
-          <div className="footer-text">Max cuantity: 0x50</div>
+          <div className="footer-text">Max quantity: 0x50</div>
         </div>
       </div>
     </div>
